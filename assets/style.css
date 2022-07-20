@@ -1,0 +1,43 @@
+.sidebar {
+    height: 100%; 
+  width: 160px; 
+  position: fixed; 
+  z-index: 1; 
+  top: 0; 
+  left: 0;
+  background-color: white; 
+  overflow-x: hidden; 
+  padding-top: 20px;
+}
+
+.buttons {
+    display: block;
+    background-color: grey;
+    color: white;
+    align-content: center;
+    padding: 5px;
+    margin: 7px;
+    width: 90%;
+}
+
+#header {
+     text-align: center;
+}
+
+.h-div {
+    margin-bottom: 10px;
+    background-color: blue;
+    color: white;
+}
+
+#search-button {
+    width: 90%;
+    background-color: blue;
+    color: white;
+}
+
+.container {
+    background-color: black;
+    color: white;
+    margin-left: 25%;
+}
